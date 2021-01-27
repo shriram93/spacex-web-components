@@ -1,5 +1,5 @@
 {
-  "name": "spacex",
+  "name": "@shriramethiraj/spacex",
   "version": "0.0.1",
   "description": "Stencil Component Starter",
   "main": "dist/index.cjs.js",
@@ -27,5 +27,14 @@
   "license": "MIT",
   "devDependencies": {
     "@stencil/sass": "^1.4.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shriram93/spacex-web-components.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/shriram93/spacex-web-components/issues"
+  },
+  "homepage": "https://github.com/shriram93/spacex-web-components#readme"
 }
