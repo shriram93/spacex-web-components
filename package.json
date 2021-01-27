@@ -1,7 +1,7 @@
 {
-  "name": "@shriramethiraj/spacex",
-  "version": "0.0.1",
-  "description": "Stencil Component Starter",
+  "name": "@shriramethiraj/spacex-web-components",
+  "version": "1.0.0",
+  "description": "SpaceX Web components",
   "main": "dist/index.cjs.js",
   "module": "dist/custom-elements/index.js",
   "es2015": "dist/esm/index.mjs",
