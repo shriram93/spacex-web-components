@@ -1,0 +1,10 @@
+:host {
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    ::slotted {
+        padding: 0;
+        margin: 0;
+    }
+}

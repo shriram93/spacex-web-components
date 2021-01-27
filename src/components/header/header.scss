@@ -1,0 +1,7 @@
+:host {
+    padding: 8px;
+    ::slotted {
+        padding: 0;
+        margin: 0;
+    }
+}
