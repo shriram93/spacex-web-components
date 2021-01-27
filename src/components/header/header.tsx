@@ -9,7 +9,7 @@ export class HeaderComponent {
   render() {
     return (
       <Host>
-          <slot></slot>
+        <p><slot></slot></p>
       </Host>)
   }
 }

@@ -9,7 +9,7 @@ export class FooterComponent {
   render() {
     return (
       <Host>
-          <slot></slot>
+        <p><slot></slot></p>
       </Host>)
   }
 }
